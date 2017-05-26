@@ -2,7 +2,7 @@
 //5/26/2017
 //CS 140
 //Lab #5 Mad Lib
-//This program will allow a user to do mad libs
+//This program will allow a user to create mad libs
 
 
 
